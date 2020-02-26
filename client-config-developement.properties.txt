@@ -1,2 +1,2 @@
 msg = hello world - this is from config
-server - Development Environment
+greeting = Development Environment
